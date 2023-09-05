@@ -20,4 +20,6 @@ const Parte4 = ({datos}) => {
   );
 };
 
+
+
 export default Parte4;
